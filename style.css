@@ -86,9 +86,10 @@ p{
 }
 
 .modal-img video{
-    width: 700px;
+    width: 500px;
 }
 
 .modal-img p{
+    font-size: 2rem;
     color: black;
 }
